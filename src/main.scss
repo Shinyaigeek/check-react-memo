@@ -1,0 +1,20 @@
+.over {
+    display: flex;
+    width: 80%;
+    margin: 0 auto;
+    flex-wrap: wrap;
+    align-content: flex-start;
+}
+
+.box {
+    display: flexbox;
+    width: 40%;
+    margin: 0 10px;
+    border: 1px solid #aaa;
+    border-radius: 2px;
+    height: 100px;
+}
+
+.column {
+    width: 100%;
+}
